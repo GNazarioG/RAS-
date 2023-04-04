@@ -1,4 +1,4 @@
-# RAS-
+# RAS-UFCG
 Projetos de inscrição RAS - UFCG
 
 Este repositorio dispõe de missões para o processo de 
